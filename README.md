@@ -1,6 +1,6 @@
 # Word-Guess-Game
 
-## How to run the program
+## How to Run the Program
 1) Before running the program, install the following libraries by copying the following text:
 pip3 install nltk3
 2) Include the path to the text file as one of your parameters when you run the program
