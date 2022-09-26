@@ -7,3 +7,5 @@ pip3 install nltk3
 
 ## About the Project
 In this project, a text file is first tokenized based on certain qualities like the length of the word, whether it's one of the stop words as well as if it's a noun. Then the most 50 freuqent words are chosen for the gusseing game where the user has to guess one of those 50 words. 
+
+You can find the code [HERE](/homework2_dxo200006.py)
